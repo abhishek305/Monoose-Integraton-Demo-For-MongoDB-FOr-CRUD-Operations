@@ -1,0 +1,19 @@
+1.response should be same as builtio backend response
+2.check valid id
+3.during post body of request should be properly formatted
+4.during put Id valid and body structure and status should be complete or incomplete
+
+5.delete with valid id 
+
+common tasks
+1.valid id :GET PUT delete
+2.body structure
+
+
+fields
+
+error 
+success
+put
+delete
+post
